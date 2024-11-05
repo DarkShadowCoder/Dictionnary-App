@@ -1,50 +1,93 @@
-# Welcome to your Expo app 👋
+<div align="center">
+  <br />
+    <h1>Food Delivery Mobile App</h1>
+  <br />
+  <img src="./docs/landing.png" alt="Onbording Screen"  width="100%" height="auto"/>
+  <br />
+  <div>
+    <br/>
+    <img src="https://img.shields.io/badge/-REACT_NATIVE-black?style=for-the-badge&logoColor=white&logo=React&color=61DAFB" alt="nextdotjs" />
+    <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=Expo&color=000020" alt="Expo" />
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=TypeScript&color=3178C6" alt="three.js" />
+    <img src="https://img.shields.io/badge/-Android-black?style=for-the-badge&logoColor=white&logo=Android&color=34A853" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/-Hygraph-black?style=for-the-badge&logoColor=white&logo=Hygraph&color=000020" alt="Hygraph" />
+    <img src="https://img.shields.io/badge/-Clerk-blue?style=for-the-badge&logoColor=white&logo=Clerk&color=61DAFB" alt="Hygraph" />
+  </div>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+  <h3 align="center">Day 3 of <b fontweight="bold">30Days-30Apps Challenge</b></h3>
+</div>
 
-## Get started
+## 📋 <a name="table">Table of Contents</a>
 
-1. Install dependencies
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
+6. 🔗 [Assets](#links)
 
-   ```bash
-   npm install
-   ```
+## <a name="introduction">🤖 Introduction</a>
 
-2. Start the app
+It is a convenient and easy-to-use food delivery application that connects customers with their favorite local restaurants and food establishments. With a wide variety of cuisines to choose from, users can browse menus, place orders, and track their food delivery in real-time. 
 
-   ```bash
-    npx expo start
-   ```
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
-In the output, you'll find options to open the app in a
+- React Native
+- TypeScript
+- Expo
+- VS Code
+- Dictionary API
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## <a name="features">🔋 Features</a>
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+👉 **Get Started**:  an essential component during onboarding and user engagement <br />
+👉 **React Navigation**: used for managing navigation in React Native applications<br />
+👉 **Screens**:  play a crucial role in shaping the user experience. <br />
+👉 **API**:  Interface between source application Program and client. Used to get definitions, synonyms, phonetics and antonyms of words in mobile application.<br />
 
-## Get a fresh project
+## <a name="quick-start">🤸 Quick Start</a>
 
-When you're ready, run:
+Follow these steps to set up the project locally on your machine.
+
+**Prerequisites**
+
+Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Expo](https://expo.com/)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+**Cloning the Repository**
 
 ```bash
-npm run reset-project
+git clone https://github.com/DarkShadowCoder/Dictionnary-App.git
+cd Dictionnary-App
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+**Installation**
 
-## Learn more
+Install the project dependencies using npm:
 
-To learn more about developing your project with Expo, look at the following resources:
+```bash
+npm install
+```
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+**Running the Project**
 
-## Join the community
+```bash
+npx expo start --android
+```
 
-Join our community of developers creating universal apps.
+Open ExpoGo in your mobile phone and scan QR code.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## <a name="links">🔗 Assets</a>
+<details>
+  <summary><code> Interface ScreenShots</code></summary>
+  <img src="./docs/screen1.jpg" width="300px" height="650px" style="border-radius: 25px" />
+  <img src="./docs/screen2.jpg" width="300px" height="650px"/>
+  <img src="./docs/screen3.jpg" width="300px" height="650px"/>
+  <img src="./docs/screen3.jpg" width="300px" height="650px"/>
+</details>
+This App is based on <a href="https://www.behance.net/isaiselvi">@IsaiselviP</a>'s design
+
+
+ 
