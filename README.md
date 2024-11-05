@@ -85,7 +85,7 @@ Open ExpoGo in your mobile phone and scan QR code.
   <img src="./docs/screen1.jpg" width="300px" height="650px" style="border-radius: 25px" />
   <img src="./docs/screen2.jpg" width="300px" height="650px"/>
   <img src="./docs/screen3.jpg" width="300px" height="650px"/>
-  <img src="./docs/screen3.jpg" width="300px" height="650px"/>
+  <img src="./docs/screen4.jpg" width="300px" height="650px"/>
 </details>
 This App is based on <a href="https://www.behance.net/isaiselvi">@IsaiselviP</a>'s design
 
