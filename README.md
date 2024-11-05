@@ -27,7 +27,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-It is a convenient and easy-to-use dictionary application that provide some function such as definitions, synnonyms, anonyms and phonetics for a specific word. Also, user can adapt difficulty of his word's definitions.
+It is a convenient and easy-to-use dictionary application that provides some function such as definitions, synnonyms, anonyms and phonetics for a specific word. Also, user can adapt difficulty of his word's definitions.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
