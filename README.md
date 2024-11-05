@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <h1>Food Delivery Mobile App</h1>
+    <h1>Dictionary Mobile App</h1>
   <br />
   <img src="./docs/landing.png" alt="Onbording Screen"  width="100%" height="auto"/>
   <br />
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-Clerk-blue?style=for-the-badge&logoColor=white&logo=Clerk&color=61DAFB" alt="Hygraph" />
   </div>
 
-  <h3 align="center">Day 3 of <b fontweight="bold">30Days-30Apps Challenge</b></h3>
+  <h3 align="center">Day 5 of <b fontweight="bold">30Days-30Apps Challenge</b></h3>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -27,7 +27,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-It is a convenient and easy-to-use food delivery application that connects customers with their favorite local restaurants and food establishments. With a wide variety of cuisines to choose from, users can browse menus, place orders, and track their food delivery in real-time. 
+It is a convenient and easy-to-use dictionary application that provide some function such as definitions, synnonyms, anonyms and phonetics for a specific word. Also, user can adapt difficulty of his word's definitions.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
