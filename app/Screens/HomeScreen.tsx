@@ -30,7 +30,7 @@ const HomeScreen =() => {
         setWord(word);
         setSearch(!search);
     }
-
+/*
     useEffect(() =>{
         fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/essential`)
         .then(response => response.json())
@@ -38,7 +38,7 @@ const HomeScreen =() => {
         .catch(error => console.log("Erreur",error))
     }, [])
     console.log("jfjg",data)
-
+*/
   return (
     <RootLayout>
         <View style={styles.container}>
